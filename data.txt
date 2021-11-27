@@ -1,0 +1,35 @@
+{
+    "_id" : ObjectId("61a13a8ee1d78d8d7634bf82"),
+    "title" : "REST API",
+    "content" : "Representational state transfer is a software architectural style that was created to guide the design and development of the architecture for the World Wide Web. REST defines a set of constraints for how the architecture of an Internet-scale distributed hypermedia system, such as the Web, should behave."
+}
+
+{
+    "_id" : ObjectId("61a13b0be1d78d8d7634bf9c"),
+    "title" : "NodeJS",
+    "content" : "Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser."
+}
+
+{
+    "_id" : ObjectId("61a13b0be1d78d8d7634bf9f"),
+    "title" : "ReactJS",
+    "content" : "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications."
+}
+
+{
+    "_id" : ObjectId("61a13b7ce1d78d8d7634bfb9"),
+    "title" : "HTML",
+    "content" : "The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript."
+}
+
+{
+    "_id" : ObjectId("61a13b7ce1d78d8d7634bfbc"),
+    "title" : "CSS",
+    "content" : "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript."
+}
+
+{
+    "_id" : ObjectId("61a13b7ce1d78d8d7634bfbf"),
+    "title" : "Javascript",
+    "content" : "JavaScript, often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled and multi-paradigm. It has dynamic typing, prototype-based object-orientation and first-class functions."
+}
